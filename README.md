@@ -8,7 +8,7 @@ On a 2 utilisateurs :
 * Recruteur de l’entreprise : postuler une offre d’emploi et consulter la liste des messages des candidat
 
 ## Les fonctionnalités de plateforme :
-* Pour le candidat : 
+### Pour le candidat : 
 - Inscription
 - Authentification
 - Consulter liste des emplois et stages
@@ -17,7 +17,7 @@ On a 2 utilisateurs :
 - Modifier ses informations
 - Consulter ses contacts
 
-* Pour le recruteur :
+### Pour le recruteur :
 - Inscription
 - Authentification
 - Ajouter une annonce
